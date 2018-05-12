@@ -1,0 +1,30 @@
+_repo: 2-B-R-0-2-B_21279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vonnegut, Kurt
+    birthdate: 1922
+    deathdate: 2007
+    gutenberg_agent_id: '9812'
+    url: http://www.gutenberg.org/2009/agents/9812
+    wikipedia: http://en.wikipedia.org/wiki/Kurt_Vonnegut
+description: The title refers to the telephone number that a person calls to schedule
+  an assisted suicide with the Federal Bureau of Termination.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: 2 B R 0 2 B
+url: http://www.gutenberg.org/ebooks/21279
