@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Kurt_Vonnegut
 description: The title refers to the telephone number that a person calls to schedule
   an assisted suicide with the Federal Bureau of Termination.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21279#2-B-R-0-2-B
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-05-03'
 gutenberg_type: Text
